@@ -1,14 +1,14 @@
 [
 	{
 		"name": "Infinite gold",
-		"gold": 100,
+		"gold": 10,
 		"cost": 100,
 		"hurryCostModifier": 100,
 		"maintenance": 1
 	},
 	{
 		"name": "Cultural increase",
-		"gold": 100,
+		"gold": 1,
 		"culture": 100,
 		"cost": 100,
 		"hurryCostModifier": 100,
@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Increase research speed",
-		"gold": 100,
+		"gold": 1,
 		"science": 100,
 		"cost": 100,
 		"hurryCostModifier": 100,
@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "Food increase",
-		"gold": 100,
+		"gold": 1,
 		"food": 100,
 		"cost": 100,
 		"hurryCostModifier": 100,
@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "New unit XP increase",
-		"gold": 100,
+		"gold": 1,
 		"uniques": ["New [Military] units start with [9999] Experience [in this city]"],
 		"cost": 100,
 		"hurryCostModifier": 100,
@@ -40,16 +40,16 @@
 	},
 	{
 		"name": "Increased city defense",
-		"gold": 100,
-		"cityStrength": 100,
-		"cityHealth": 1000,
+		"gold": 1,
+		"cityStrength": 10,
+		"cityHealth": 100,
 		"cost": 100,
 		"hurryCostModifier": 100,
 		"maintenance": 1
 	},
 	{
 		"name": "Increased city production",
-		"gold": 100,
+		"gold": 1,
 		"production": 100,
 		"cost": 100,
 		"hurryCostModifier": 100,
