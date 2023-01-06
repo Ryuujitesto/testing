@@ -9,7 +9,7 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 25,
+		"culture": 10,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -17,7 +17,7 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 25,
+		"science": 10,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -25,7 +25,7 @@
 	{
 		"name": "Food increase",
 		"gold": 1,
-		"food": 25,
+		"food": 10,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -33,7 +33,7 @@
 	{
 		"name": "New unit XP increase",
 		"gold": 1,
-		"uniques": ["New [Military] units start with [9999] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -50,7 +50,7 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 25,
+		"production": 10,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
