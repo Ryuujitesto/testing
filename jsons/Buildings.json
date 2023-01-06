@@ -3,15 +3,15 @@
 		"name": "Infinite gold",
 		"gold": 20,
 		"cost": 1,
-                "happiness": 3,
+                "happiness": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
 	},
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 30,
-                "happiness": 3,
+		"culture": 15,
+                "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -19,8 +19,8 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 15,
-                "happiness": 3,
+		"science": 10,
+                "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -28,8 +28,8 @@
 	{
 		"name": "Food increase",
 		"gold": 1,
-		"food": 20,
-                "happiness": 5,
+		"food": 10,
+                "happiness": 3,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -37,8 +37,8 @@
 	{
 		"name": "New unit XP increase",
 		"gold": 1,
-                "happiness": 3,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]"],
+                "happiness": 1,
+		"uniques": ["New [Military] units start with [60] Experience [in this city]"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -48,7 +48,7 @@
 		"gold": 1,
 		"cityStrength": 30,
 		"cityHealth": 100,
-                "happiness": 3, 
+                "happiness": 1, 
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -56,8 +56,8 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 50,
-                "happiness": 5,
+		"production": 20,
+                "happiness": 2,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
