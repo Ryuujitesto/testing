@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Infinite gold",
-		"gold": 20,
+		"gold": 25,
 		"cost": 1,
                 "happiness": 1,
 		"hurryCostModifier": 1,
@@ -10,8 +10,8 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 15,
-                "faith": 1,
+		"culture": 20,
+                "faith": 3,
                 "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -20,8 +20,11 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 10,
-                "happiness": 1,
+		"science": 50,
+		"production": 25,
+		"percentStatBonus": { "science": 25 }
+		"happiness": 1,
+		"Limited to [1] per Civilization",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -39,7 +42,7 @@
 		"name": "New unit XP increase",
 		"gold": 1,
                 "happiness": 1,
-		"uniques": ["New [Military] units start with [60] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [210] Experience [in this city]"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -58,6 +61,7 @@
 		"name": "Increased city production",
 		"gold": 1,
 		"production": 25,
+		"percentStatBonus": { "production": 25 },
                 "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
