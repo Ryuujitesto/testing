@@ -1,7 +1,8 @@
 [
 	{
 		"name": "Infinite gold",
-		"gold": 25,
+		"gold": 10,
+                "percentStatBonus": { "gold": 25 }
 		"cost": 1,
                 "happiness": 1,
 		"hurryCostModifier": 1,
@@ -10,7 +11,8 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 25,
+		"culture": 10,
+                "percentStatBonus": { "culture": 25 }
                 "faith": 2,
                 "happiness": 1,
 		"cost": 1,
@@ -20,7 +22,7 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 10,
+		"science": 5,
 		"percentStatBonus": { "science": 25 }
 		"happiness": 1,
 		"cost": 1,
