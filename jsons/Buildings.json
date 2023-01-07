@@ -10,8 +10,8 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 20,
-                "faith": 3,
+		"culture": 25,
+                "faith": 2,
                 "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -20,11 +20,9 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 50,
-		"production": 25,
+		"science": 10,
 		"percentStatBonus": { "science": 25 }
 		"happiness": 1,
-		"Limited to [1] per Civilization",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
