@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Infinite gold",
-		"gold": 15,
+		"gold": 50,
                 "percentStatBonus": { "gold": 25 }
 		"cost": 1,
                 "happiness": 1,
@@ -11,10 +11,11 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 5,
+		"culture": 50,
                 "percentStatBonus": { "culture": 30 }
-                "faith": 2,
+                "faith": 5,
                 "happiness": 1,
+                "uniques": ["Limited to [1] per Civilization"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -22,8 +23,9 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 5,
+		"science": 10,
 		"percentStatBonus": { "science": 20 }
+                "uniques": ["Limited to [1] per Civilization"],
 		"happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -32,9 +34,10 @@
 	{
 		"name": "Food increase",
 		"gold": 1,
-		"food": 5,
+		"food": 10,
 		"percentStatBonus": { "food": 10 }
                 "happiness": 1,
+                "uniques": ["Limited to [1] per Civilization"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -43,7 +46,8 @@
 		"name": "New unit XP increase",
 		"gold": 1,
                 "happiness": 1,
-		"uniques": ["New [Military] units start with [60] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [60] Experience [in this city],
+                            "Limited to [1] per Civilization","],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -53,7 +57,8 @@
 		"gold": 1,
 		"cityStrength": 30,
 		"cityHealth": 100,
-		"uniques": ["[Military] Units adjacent to this city heal [20] HP per turn when healing"],
+		"uniques": ["[Military] Units adjacent to this city heal [25] HP per turn when healing",
+                            "Limited to [1] per Civilization"],
                 "happiness": 1, 
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -62,8 +67,9 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 25,
+		"production": 100,
 		"percentStatBonus": { "production": 50 },
+                "uniques": ["Limited to [1] per Civilization"],
                 "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
