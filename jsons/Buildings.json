@@ -47,7 +47,7 @@
 		"gold": 1,
                 "happiness": 1,
 		"uniques": ["New [Military] units start with [60] Experience [in this city],
-                            "Limited to [1] per Civilization","],
+                            "Limited to [1] per Civilization"],
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
