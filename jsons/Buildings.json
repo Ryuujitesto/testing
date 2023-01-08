@@ -57,7 +57,7 @@
 		"gold": 1,
 		"cityStrength": 30,
 		"cityHealth": 100,
-		"uniques": ["[Military] Units adjacent to this city heal [25] HP per turn when healing",],
+		"uniques": ["[Military] Units adjacent to this city heal [25] HP per turn when healing"],
                 "happiness": 1, 
 		"cost": 1,
 		"hurryCostModifier": 1,
