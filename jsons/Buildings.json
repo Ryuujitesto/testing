@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Infinite gold",
-		"gold": 50,
+		"gold": 15,
                 "percentStatBonus": { "gold": 25 }
 		"cost": 1,
                 "happiness": 1,
@@ -11,12 +11,11 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 50,
-                "percentStatBonus": { "culture": 30 }
-                "faith": 5,
+		"culture": 5,
+                "percentStatBonus": { "culture": 10 }
+                "faith": 2,
                 "happiness": 1,
-                "uniques": ["Limited to [1] per Civilization"],
-		"cost": 1,
+                "cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
 	},
@@ -24,7 +23,9 @@
 		"name": "Increase research speed",
 		"gold": 1,
 		"science": 10,
-		"percentStatBonus": { "science": 20 }
+                "culture": 50,
+                "production": 50,
+		"percentStatBonus": { "science": 10 }
                 "uniques": ["Limited to [1] per Civilization"],
 		"happiness": 1,
 		"cost": 1,
@@ -37,8 +38,7 @@
 		"food": 10,
 		"percentStatBonus": { "food": 10 }
                 "happiness": 1,
-                "uniques": ["Limited to [1] per Civilization"],
-		"cost": 1,
+                "cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
 	},
@@ -57,8 +57,7 @@
 		"gold": 1,
 		"cityStrength": 30,
 		"cityHealth": 100,
-		"uniques": ["[Military] Units adjacent to this city heal [25] HP per turn when healing",
-                            "Limited to [1] per Civilization"],
+		"uniques": ["[Military] Units adjacent to this city heal [25] HP per turn when healing",],
                 "happiness": 1, 
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -67,9 +66,8 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 100,
-		"percentStatBonus": { "production": 50 },
-                "uniques": ["Limited to [1] per Civilization"],
+		"production": 15,
+		"percentStatBonus": { "production": 25 },
                 "happiness": 1,
 		"cost": 1,
 		"hurryCostModifier": 1,
