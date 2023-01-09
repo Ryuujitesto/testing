@@ -18,7 +18,7 @@ BuildingIcons/Food increase
   orig: 128, 128
   offset: 0, 0
   index: -1
-BuildingIcons/Increase research speed
+BuildingIcons/Legacy of Earth
   rotate: false
   xy: 262, 2
   size: 128, 128
@@ -39,7 +39,7 @@ BuildingIcons/Increased city production
   orig: 128, 128
   offset: 0, 0
   index: -1
-BuildingIcons/Infinite gold
+BuildingIcons/Gold increase 
   rotate: false
   xy: 652, 2
   size: 128, 128
