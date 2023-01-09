@@ -22,9 +22,9 @@
 	{
 		"name": "Legacy of Earth",
 		"gold": 1,
-		"science": 100,
+		"science": 50,
                 "culture": 100,
-                "production": 100,
+                "production": 50,
 		"percentStatBonus": { "science": 25 }
                 "uniques": ["Limited to [1] per Civilization"],
 		"happiness": 1,
