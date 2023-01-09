@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Infinite gold",
-		"gold": 15,
+		"name": "Gold increase",
+		"gold": 20,
                 "percentStatBonus": { "gold": 25 }
 		"cost": 1,
                 "happiness": 1,
@@ -11,21 +11,21 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 5,
+		"culture": 10,
                 "percentStatBonus": { "culture": 10 }
-                "faith": 2,
+                "faith": 3,
                 "happiness": 1,
                 "cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
 	},
 	{
-		"name": "Increase research speed",
+		"name": "Legacy of Earth",
 		"gold": 1,
-		"science": 10,
-                "culture": 50,
-                "production": 50,
-		"percentStatBonus": { "science": 10 }
+		"science": 100,
+                "culture": 100,
+                "production": 100,
+		"percentStatBonus": { "science": 25 }
                 "uniques": ["Limited to [1] per Civilization"],
 		"happiness": 1,
 		"cost": 1,
@@ -66,7 +66,7 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 15,
+		"production": 25,
 		"percentStatBonus": { "production": 25 },
                 "happiness": 1,
 		"cost": 1,
