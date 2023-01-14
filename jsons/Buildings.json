@@ -7,7 +7,7 @@
                 "production": 50,
                 "food": 10,
 		"percentStatBonus": { "science": 15 },
-                "percentStatBonus": { "production": 25 }
+                "percentStatBonus": { "production": 25 },
                 "uniques": ["Limited to [1] per Civilization"],
 		"happiness": 6,
 		"cost": 1,
